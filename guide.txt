@@ -1,0 +1,9 @@
+npm init #to start a node project
+npm i express #to install the lib
+npm install -g nodemon #to install the lib
+npm install --save nodemon #to add the lib in the dependencies
+npm install sqlite3 --save #to add the sqlite lib
+npm install sqlite --save #to add the sqlite lib
+npm i cors -S #to add cors lib
+npm i https -S #to add https lib
+npm i fs -S #to add fs (file system) lib
